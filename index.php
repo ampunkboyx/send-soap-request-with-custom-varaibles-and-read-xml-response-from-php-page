@@ -21,6 +21,6 @@
     </form>
     <br>-----------
     <div id="xml_response"></div>
-   </center>
+  </center>
 </body>
 </html>
